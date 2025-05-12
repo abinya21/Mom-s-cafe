@@ -16,17 +16,3 @@
 - **Tomcat** (manual deployment)
 
 ---
-
-## 📦 Project Structure
-
-momscafe/
-├── src/
-│ ├── main/
-│ │ ├── java/com/momscafe/
-│ │ └── webapp/WEB-INF/
-│ │ └── spring/
-│ │ └── applicationContext.xml
-│ └── resources/
-├── web/
-│ └── index.jsp
-├── pom.xml
